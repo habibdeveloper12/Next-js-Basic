@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+.synic {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
 
 body {
   padding: 0;
